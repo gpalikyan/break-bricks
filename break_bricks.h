@@ -17,6 +17,7 @@ public:
 	BreakBricks();	
 	~BreakBricks();
 	
+	//for platform moving
 	void arrow_keys_handler();
 	
 	//event handlers
